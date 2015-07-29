@@ -1,4 +1,4 @@
-<span style="font-size:18px;">#include<stdio.h>     /*I/o函数*/
+#include<stdio.h>     /*I/o函数*/
 
 #include<stdlib.h>    /*其他说明*/
 
@@ -714,7 +714,7 @@ void Exit()
 
   printf("\n");
 
-  printf("                               制作人:齐               \n");
+  printf("                               制作人:xxx               \n");
 
   printf("================================================================================\n");
 
@@ -734,21 +734,21 @@ void Exit()
 
   printf("                            ★★★★★★★★★★★\n");
 
-  printf("                                  信  ★  计               \n");
+  printf("                                    ★               \n");
 
-  printf("                                  阳  ★  算               \n");
+  printf("                                    ★                \n");
 
-  printf("                                  师  ★  机                \n");
+  printf("                                    ★                \n");
 
-  printf("                                  范  ★  五             \n");
+  printf("                                    ★              \n");
 
-  printf("                                  学  ★  一               \n");
+  printf("                                    ★                \n");
 
-  printf("                                  院  ★  班               \n");
+  printf("                                    ★                \n");
 
-  printf("                                      ★                 \n");
+  printf("                                    ★                 \n");
 
-  printf("                                      ★                 \n");
+  printf("                                    ★                 \n");
 
   printf("                                 ◆谢谢使用◆\n");
 
@@ -766,7 +766,7 @@ void Exit()
 
   printf("\n");
 
-  printf("---------★------------------------信阳师范学院----------------------★---------\n");
+  printf("---------★------------------------xxxxxxxx---------------------★---------\n");
 
   printf("\n");
 
